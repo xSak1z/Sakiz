@@ -1,0 +1,4 @@
+-- execute on any characters , it will work
+-- made by xSakiz#1321
+game.Debris:AddItem(game.Players.LocalPlayer.Character.Attack,1)
+game.Debris:AddItem(game.Players.LocalPlayer.Character.Defense,1)
